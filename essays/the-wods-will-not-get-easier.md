@@ -35,7 +35,7 @@ becomes
 ```
 const myFunc = () => "value";
 ```
-*NoScript is an addon that blocks Javascript for privacy reasons.*
+*It's just so much more compact.*
 
 ## Slow and steady will not work, but fast and steady might
 
