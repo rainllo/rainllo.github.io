@@ -9,7 +9,7 @@ labels:
   - WOD
 ---
 
-<img class="ui tiny right spaced image" src="../images/noscript.jpg">*NoScript is an addon that blocks Javascript for privacy reasons.*
+<img class="ui medium middle spaced image" src="../images/noscript.jpg">*NoScript is an addon that blocks Javascript for privacy reasons.*
 
 ## A very privacy conscious person learning Javascript.
 
@@ -47,5 +47,12 @@ total += i;
 ```
 
 When I'm under pressure I find myself having a hard time finding the right approach. Despite that, with enough practice I believe I can solve the WODs quicker and with less pressure as I familiarize myself with Javascript. Before the first official WOD I participated in a bWOD and it really helped me for the real thing. In the bWOD we practiced going through a string with various symbols, “-”, “/”, “\\” which have different values and adding them to get the total distance and elevation. I was able to solve it and when the actual WOD came and asked  to make a Blackjack counter I managed to find a solution using a similar method, but this time with switches instead of an if-else. I am looking forward to learning more about Javascript so the WODs can become less stressful with time. 
+
+```
+case string[i] = 'K':
+  value += 10;
+  break
+```
+*Kings give 10 points.*
 
 The problems in the WODs will not get easier, but I know I will have an easier time solving them if I keep practicing my Javascript.
