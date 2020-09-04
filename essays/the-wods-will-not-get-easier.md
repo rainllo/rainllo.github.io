@@ -11,11 +11,11 @@ labels:
 
 <img class="ui tiny right spaced image" src="../images/noscript.jpg">*NoScript is an addon that blocks Javascript for privacy reasons.*
 
-## A very privacy conscious person learning Javascript
+## A very privacy conscious person learning Javascript.
 
 Sometimes I can browse over a hundred different websites a day, so I’m fully aware of the importance of Javascript in making the web interactive and dynamic versus those static HTML web pages we often used to see in the past. But as someone who's very privacy-minded I’m also aware of the controversy surrounding it due to its ability to track users and insert malicious code. Not to mention the most obnoxious ads are often loaded using Javascript. However, Javascript itself is good and is only bad when it's abused for wrongdoing. With this class I’ll be able to learn how to code in Javascript and use it in a proper manner. I already gained a lot of knowledge with regards to programming, specifically Java, thanks to ICS 111 and ICS 211. Although Java and Javascript aren’t related to one another, despite similar names, many concepts in Javascript were already familiar with me. This was a good thing since Javascript is a new language for me. Still, there were a couple of differences that I discovered within just the first two weeks that I found quite interesting.
 
-## Javascript training wheels
+## Javascript training wheels.
 
 The site used to complete E06, freecodecamp.org, was incredibly helpful. The best thing about it was how it helped me refresh my coding skills because I confess that I didn't do much coding over the summer. I was able to go through much of the problems in the “Basic Javascript” with ease, although the conditional ternary operators which consisted the last few problems in that section were new to me. The ability to rewrite an if-else statement into a one line: 
 
@@ -38,7 +38,7 @@ const myFunc = () => "value";
 ```
 *It's just so much more compact.*
 
-## Slow and steady will not work, but fast and steady might
+## Slow and steady will not work. Gotta go fast.
 
 I’m a slow coder and the WODs have made it clear that I need to improve myself in that aspect. I can eventually solve most problems given enough time, but when there’s a time limit to do it, then I’m working under pressure. I think the difficulty I have with solving coding problems is a combination trying to determine what algorithm I need to utilize and remembering how to write that in Javascript. Using the WOD E07: Project Euler Problem as an example, at first I attempted to make an empty array and with a for-loop I would count the numbers from 1 to 1000 and if they were divisible by 3 or 5, then I’d add them to the array. Afterwards, I would try to add the numbers in the array. The problem was that I didn’t know how to do that and I was stuck in the problem for a few minutes. Eventually, I looked at the video since I was stuck and that’s when I realized I was overcomplicating myself, there was no need for an array, I could just count just add it to a 
 
