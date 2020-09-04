@@ -13,17 +13,29 @@ labels:
 
 ## A very privacy conscious person learning Javascript
 
-As someone who sometimes browses over a hundred different websites a day I’m fully aware of the importance of Javascript in making the web interactive and dynamic versus those static HTML pages web pages we used to often used to see in the past. But as someone who's very privacy-minded I’m also aware of the controversy surrounding it due to its ability to track users and insert malicious code. Not to mention the most obnoxious ads are often loaded using Javascript. However, Javascript itself is good and is only bad when it is abused for wrongdoing. With this class I’ll be able to learn how to code in Javascript and use it in a proper manner. I already gained a lot of understanding of programming, specifically Java, thanks to ICS 111 and ICS 211. I was able to export knowledge from those classes and import it to ICS 314. Although Java and Javascript aren’t related to one another, despite similar names, many concepts in Javascript were already familiar with me. This was a good thing since Javascript is a new language for me. Still, there were a couple of differences that I discovered within just the first two weeks that I found quite interesting.Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Sometimes I can browse over a hundred different websites a day, so I’m fully aware of the importance of Javascript in making the web interactive and dynamic versus those static HTML web pages we often used to see in the past. But as someone who's very privacy-minded I’m also aware of the controversy surrounding it due to its ability to track users and insert malicious code. Not to mention the most obnoxious ads are often loaded using Javascript. However, Javascript itself is good and is only bad when it's abused for wrongdoing. With this class I’ll be able to learn how to code in Javascript and use it in a proper manner. I already gained a lot of knowledge with regards to programming, specifically Java, thanks to ICS 111 and ICS 211. Although Java and Javascript aren’t related to one another, despite similar names, many concepts in Javascript were already familiar with me. This was a good thing since Javascript is a new language for me. Still, there were a couple of differences that I discovered within just the first two weeks that I found quite interesting.
 
 ## Javascript training wheels
 
-I thought the site used to do E06, freecodecamp.org, was incredibly helpful. I think the best thing about it was how it helped me refresh my coding skills because I will confess that I didn't do much coding over the summer. I was able to go through much of the problems in the “Basic Javascript” with ease although the conditional ternary operators which consisted of the last few problems were new to me. The ability to rewrite an if-else statement into a one line: 
+The site used to complete E06, freecodecamp.org, was incredibly helpful. The best thing about it was how it helped me refresh my coding skills because I confess that I didn't do much coding over the summer. I was able to go through much of the problems in the “Basic Javascript” with ease, although the conditional ternary operators which consisted the last few problems in that section were new to me. The ability to rewrite an if-else statement into a one line: 
 
 ```
 condition ? statement-if-true : statement-if-false;
 ```
 
-was new to me as I don’t believe we covered something like it in ICS 211. Even so, I’ll have to make the effort to use the ternary operator otherwise I’ll keep writing it as a traditional if-else statement. The ES6 problems were also very helpful. I was initially misled to think most variables in Javascript were “var” because of the initial problems I had to solve, but actually “var” should be avoided in favor of “let” or “const”. The ES6 problems also taught me about using arrow functions to write anonymous functions since many functions often don’t need to be named. I like how it condenses the code into a single line. There’s also template literals which I think will come in handy for solving fill in the blank problems since it simplifies complex strings. The last few problems involved using the Promise() function which was new to me. Nonetheless, while freeCodeCamp was a helpful introduction to Javascript I’ll have to go through it a couple times to let the content sink in, especially those in ES6. 
+was something I don’t believe we covered in ICS 211. Even so, I’ll have to make the effort to use the ternary operator otherwise I’ll keep writing it as a traditional if-else statement. The ES6 problems were also very helpful. I was initially misled into thinking most variables in Javascript were “var” because of the initial problems in the previous section, but actually “var” should be avoided in favor of “let” or “const”. The ES6 problems also taught me about using arrow functions to write anonymous functions since many functions often don’t need to be named. I like how it condenses the code into a single line. There’s also template literals which I think will come in handy for solving fill in the blank problems since it simplifies complex strings. The last few problems involved using the Promise() function which was new to me. Nonetheless, while freeCodeCamp was a helpful introduction to Javascript I’ll have to go through it a couple times to let the content sink in, especially those in ES6. 
+
+```
+const myFunc = function() {
+  const myVar = "value";
+  return myVar;
+}
+```
+becomes
+```
+const myFunc = () => "value";
+```
+*NoScript is an addon that blocks Javascript for privacy reasons.*
 
 ## Slow and steady will not work, but fast and steady might
 
