@@ -9,7 +9,8 @@ labels:
   - WOD
 ---
 
-<img class="ui medium middle spaced image" src="../images/noscript.jpg">*NoScript is an addon that blocks Javascript for privacy reasons.*
+<img class="ui large left spaced image" src="../images/noscript.jpg">
+*NoScript is an addon that blocks Javascript for privacy reasons.*
 
 ## A very privacy conscious person learning Javascript.
 
@@ -53,6 +54,6 @@ case string[i] = 'K':
   value += 10;
   break
 ```
-*Kings give 10 points.*
+*King gives 10 points.*
 
 The problems in the WODs will not get easier, but I know I will have an easier time solving them if I keep practicing my Javascript.
