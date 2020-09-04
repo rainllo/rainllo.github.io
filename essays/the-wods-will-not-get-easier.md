@@ -25,6 +25,7 @@ condition ? statement-if-true : statement-if-false;
 
 was something I don’t believe we covered in ICS 211. Even so, I’ll have to make the effort to use the ternary operator otherwise I’ll keep writing it as a traditional if-else statement. The ES6 problems were also very helpful. I was initially misled into thinking most variables in Javascript were “var” because of the initial problems in the previous section, but actually “var” should be avoided in favor of “let” or “const”. The ES6 problems also taught me about using arrow functions to write anonymous functions since many functions often don’t need to be named. I like how it condenses the code into a single line. There’s also template literals which I think will come in handy for solving fill in the blank problems since it simplifies complex strings. The last few problems involved using the Promise() function which was new to me. Nonetheless, while freeCodeCamp was a helpful introduction to Javascript I’ll have to go through it a couple times to let the content sink in, especially those in ES6. 
 
+With arrow functions the following:
 ```
 const myFunc = function() {
   const myVar = "value";
