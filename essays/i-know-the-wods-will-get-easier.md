@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The WODs will get easier
+title: I know the WODs will get easier
 date: 2020-09-03
 labels:
   - Javascript
