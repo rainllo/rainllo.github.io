@@ -10,6 +10,7 @@ labels:
 ---
 
 <img class="ui large left spaced image" src="../images/noscript.jpg">
+
 *NoScript is an addon that blocks Javascript for privacy reasons.*
 
 ## A very privacy conscious person learning Javascript.
