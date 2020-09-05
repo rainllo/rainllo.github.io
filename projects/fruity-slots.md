@@ -49,3 +49,14 @@ switch (picGrid[0][0]) {
 ```
 
 While the switch statement placed the fruits onto the screen, it still didn't determine whether or not a three-in-a-row of the same fruit was made. For that I needed an if else block for all the variations I of a three-in-a-row, including horizontal and vertical, that could be possible in the 3x3 grid. 
+
+```
+if (picGrid[0][0] != 6 || picGrid[1][0] != 6 || picGrid[2][0] != 6 || picGrid[0][1] != 6 
+  || picGrid[1][1] != 6 || picGrid[2][1] != 6 || picGrid[0][2] != 6 || picGrid[1][2] != 6
+  || picGrid[2][2] != 6) { 
+  else if {
+...
+  }
+...
+}
+```
