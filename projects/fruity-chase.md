@@ -19,3 +19,5 @@ Using classes I was able add complexity to the game. The fruits now moved random
 <img class="ui medium right floated rounded image" src="../images/fruitychase3.jpg">
 
 This games uses the [EZ graphics library](http://www2.hawaii.edu/~dylank/ics111/) which helped in learning how to build Java applications. The player controls a polic car with the WASD keys and must collect the fruits that move randomly in the game. The fruits then drop a star at the location where they were picked and plays a sound. The player needs to be careful, however, as there are buildings placed in set locations that act as obstacles. If the one is not careful and collides with the building an explosion happens and the player loses. Once all five fruits have been successfully collected the player wins and a celebratory song is played at the end. 
+
+[Get the source code here.](https://github.com/rainllo/fruitychase)
