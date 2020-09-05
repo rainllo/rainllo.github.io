@@ -10,7 +10,7 @@ labels:
 summary: A 3x3 slot machine with a fruity theme.
 ---
 
-<img class="ui large center floated rounded image" src="../images/fruityslots2.jpg">
+<img class="ui large rounded image" src="../images/fruityslots2.jpg">
 
 Fruity Slots was a group project for ICS 111. To create the game I teamed up with Micah Kwon and Eric Kuang. While there were many ideas for what we should make for our final project we eventually settled on doing a slot machine. After all, people in Hawaii love visiting the ninth island, Las Vegas, to gamble! And wanting to continue the habit of using fruits in my previous projects I suggested we make a fruit themed slot machine. 
 
