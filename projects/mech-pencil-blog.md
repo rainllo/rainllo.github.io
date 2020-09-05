@@ -8,7 +8,6 @@ date: 2018-05-08
 labels:
   - HTML
   - CSS
-  - Material Design
 summary: A mechanical pencil focused site that attempts to follow the Material Design guidelines by Google.
 ---
 
