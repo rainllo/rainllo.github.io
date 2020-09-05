@@ -7,8 +7,6 @@ permalink: projects/fruitychase
 date: 2019-11-01
 labels:
   - Java
-  - ICS 111
-  - EZ Graphics
 summary: Control the police car to collect the fruits, but avoid crashing into buildings.
 ---
 
