@@ -7,8 +7,6 @@ permalink: projects/fruityslots
 date: 2019-12-08
 labels:
   - Java
-  - ICS 111
-  - Group
 summary: A 3x3 slot machine with a fruity theme.
 ---
 
