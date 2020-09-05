@@ -60,22 +60,18 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows 10",
+        "Linux Mint",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Android",
+        "Git/GitHub"
       ]
     }
   ],
@@ -122,15 +118,15 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2018-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "For students who graduated from a public Hawaii high school in spring 2005 or later, have a high school GPA of at least a 3.0, meet certain academic criteria, eligible for the Federal Pell Grant, and a bonafide Hawaii resident."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "ABC Stores Jumpstart Scholarship Fund",
+      "date": "2018-Present",
+      "awarder": "ABC Stores",
+      "summary": "This scholarship was established to further the education of ABC Stores' employees and their dependents.  Awardees are chosen for their academic promise and commitment to higher education."
     }
   ],
   "references": [
