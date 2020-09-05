@@ -18,7 +18,7 @@ My interests in software engineering originated in my desire to protect my onlin
 Due to these concerns I always block ads and have found myself moving away from proprietary software. I’ve switched my browser from the vastly popular but closed source Google Chrome to the open source Mozilla Firefox. I try to type my documents in LibreOffice rather than Microsoft Office. And I’ve been attempting to fully migrate away from Windows 10 and go full GNU/Linux. The aspect of software engineering that I’m most interested in relates to Free and Open Source, or FOSS for short. I’ve tried the various “beginner” distros: Ubuntu, Linux Mint, and elementaryOS, and I also want to try other distros that require more manual input to compile. Of course, I’m not yet comfortable with doing that as I could brick my laptop, and frankly I don’t have money to spend on *another* new one. Still, I want to experience the nitty-gritty of Linux because it’s considerably more personal and you feel like you understand how the software you use works. Twenty-nine years ago Linus Torvalds announced the Linux kernel and considered it a hobby. Today it has become one of the most enduring products of the open source community, and I just find that really inspiring. I want to become proficient enough at programming so that I can contribute to such community projects. And perhaps I could even develop my skills enough that I could start something on Github that becomes heavily forked in the community.
 
 <img class="ui large spaced image" src="../images/linuxorigins.jpg">
-*"just a hobby, won't be big and professional like gnu" -29 years ago* 
+*just a hobby, won't be big and professional like gnu -29 years ago* 
 
 ## Games and simulations
 
