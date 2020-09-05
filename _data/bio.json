@@ -98,37 +98,24 @@
       "website": "",
       "startDate": "2018-06-25",
       "endDate": "Present",
-      "summary": "I help keep inventory in stock and provide customer service.",
+      "summary": "I help keep inventory in stock and provide customer service",
       "highlights": [
-        "Perform daily department tasks such as transferring merchandise and processing transactions.",
-        "Assist customers and coworkers in need of support."
+        "Perform daily department tasks such as transferring merchandise and processing transactions",
+        "Assist customers and coworkers in need of support"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Roosevelt High School Leo Club",
+      "website": "https://rhsleoclub.weebly.com/",
+      "position": "Volunteer",
+      "startDate": "2017-04-13",
+      "endDate": "2018-05-20",
+      "summary": "Volunteering in various community service activities and projects",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Repainting bus stop benches",
+        "Beach clean up"
       ]
     }
   ],
