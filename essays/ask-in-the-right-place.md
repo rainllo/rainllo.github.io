@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Ask privately
+title: Ask in the right place
 date: 2020-09-10
 labels:
   - Questions
