@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Back to basicss
+title: Back to basiCSS
 date: 2020-10-08
 labels:
   - Web Development
