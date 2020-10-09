@@ -15,7 +15,7 @@ I was already familiar with the basics of HTML and CSS as I have worked with it 
 
 ## Coding my hobby
 
-<img class="ui large centered spaced image" src="../images/recreatepenshop.jpg">
+<img class="ui large image" src="../images/recreatepenshop.jpg">
 
 *NoScript is an addon that blocks Javascript for privacy reasons.*
 
