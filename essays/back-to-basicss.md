@@ -13,7 +13,7 @@ labels:
 
 I was already familiar with the basics of HTML and CSS as I have worked with it to [create a simple blog](https://rainllo.github.io/projects/mechpencilblog) nearly two years ago. However, I must confess that I have not programmed much in HTML/CSS since then, that is, until now. But unlike the HTML/CSS I had learned previously, the webpages we have been making for the past week utilized Semantic UI. Learning how to use Semantic UI along with vanilla HTML/CSS felt more intuitive compared to using Underscore together with Javascript. The syntax and key words that Semantic UI uses are in plain, natural English which prevented the "what does this function do again?" questions I would sometimes ask myself when working with Underscore. Nonetheless, learning a new concept always comes with new questions and frustations. When I was recreating the [Island Snow website](https://islandsnow.com/) to familiarize myself with Semantic UI the biggest problem I encountered was to conceptualize containers and grids. These two things are used *everywhere* when building a website using Semantic UI so I needed to understand how they worked very well. Thankfully, I quickly realized that the grids and containers used in Semantic UI are no different from the CSS boxes in HTML. It sure is a good thing we spent a week on HTML/CSS!
 
-## Coding my hobby
+## Cursed text
 
 <img class="ui centered large image" src="../images/recreatepenshop.jpg">
 
@@ -50,8 +50,19 @@ After recreating the Island Snow website, the next WOD was a pick-your-own proje
 
 <img class="ui centered large image" src="../images/wrongpenshop.jpg">
 
-*Woops! Now the banner is hidden*
+*Woops! Now the banner text is hiding*
 
+## The calm before the storm?
 
+Perhaps because HTML/CSS was mostly a review for me and Semantic UI was a fairly straightforward incorporation, this module was pretty easy, knock on wood. The Thursday WOD, which had the longest available time to finish of all the WODs so far, was really easy to do. I mainly have to thank the various attempts at recreating Island Snow and Tokyo Pen Shop, as well as the Tori Richard site for the bWOD for my success in this week's WOD. But I also think some of the ease is due to the more lax requirements for the moment when we're recreating the sites. Notably, there was very little scripts used during this module, I only needed to use the following Javascript to make the dropdown menus funcitonal: 
 
+```
+<script>
+  $('.ui.dropdown')
+      .dropdown()
+  ;
+</script>
+```
+
+Nowadays, virtually all sites use HTML/CSS with Javascript to create visually appealing and interactice user interfaces. It was surprising just how much of a site I was able to build that was still pretty interactive and visually appealing without using any Javascript, and this is all thanks to Semantic UI. Taking a look at the first couple readings of the next module using React it does seem we will now be incorporating more Javascript to build websites. 
 
