@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Appreciating the Work
+title: Appreciating the Work Done
 date: 2020-12-18
 labels:
   - Software Engineering
