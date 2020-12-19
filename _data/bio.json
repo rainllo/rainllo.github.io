@@ -84,6 +84,17 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 111: Intro to Computer Science I",
+        "ICS 211: Intro to Computer Science II",
+        "ICS 314: Software Engineering I",
+        "ICS 311: Algorithms",
+        "ICS 141: Discrete Math for CS I",
+        "ICS 241: Discrete Math for CS II",
+        "MATH 241: Calculus I",
+        "MATH 242: Calculus II",
+        "FIL 301: Third-Level Filipino I",
+        "General Chemistry",
+        "General Physics",
       ]
     }
   ],
