@@ -12,7 +12,7 @@ labels:
 summary: A website for all things food related at UH Manoa
 ---
 
-<img class="ui large rounded image" src="../images/campuscravingslanding.jpg">
+<img class="ui large centered rounded image" src="../images/campuscravingslanding.jpg">
 
 ## About 
 
